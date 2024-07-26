@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.whatsupaustria.events",
+    "sha256_cert_fingerprints":
+    ["BA:A5:2B:16:36:DD:E5:B1:9C:28:39:B3:68:7D:34:80:75:1B:31:2E:93:6D:FB:53:6F:1B:88:D9:4F:CF:11:86"]
+  }
+}]
